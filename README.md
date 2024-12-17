@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @curiosity-creates
+- 👀 I’m interested in building things at the intersection of mechanical, robotics and software engineering.
+- 🌱 I’m currently learning AI for robotics.
+- 💞️ I’m looking to collaborate on projects related to AI and robotics.
+- 📫 How to reach me curiositycreates91@gmail.com
